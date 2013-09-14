@@ -16,12 +16,12 @@
  </url>
  <url>
   <loc>http://loge.github.io/2013/index.html</loc>
-  <lastmod>2013-09-12</lastmod>
+  <lastmod>2013-09-13</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://loge.github.io/archive.html</loc>
-  <lastmod>2013-09-12</lastmod>
+  <lastmod>2013-09-13</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -31,12 +31,12 @@
  </url>
  <url>
   <loc>http://loge.github.io/categories/index.html</loc>
-  <lastmod>2013-09-12</lastmod>
+  <lastmod>2013-09-13</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://loge.github.io/categories/me.html</loc>
-  <lastmod>2013-09-12</lastmod>
+  <lastmod>2013-09-14</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -46,12 +46,12 @@
  </url>
  <url>
   <loc>http://loge.github.io/galleries/index.html</loc>
-  <lastmod>2013-09-12</lastmod>
+  <lastmod>2013-09-13</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://loge.github.io/index.html</loc>
-  <lastmod>2013-09-12</lastmod>
+  <lastmod>2013-09-14</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -61,17 +61,22 @@
  </url>
  <url>
   <loc>http://loge.github.io/listings/index.html</loc>
-  <lastmod>2013-09-12</lastmod>
+  <lastmod>2013-09-13</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://loge.github.io/posts/2013/hello-nikola.html</loc>
-  <lastmod>2013-09-12</lastmod>
+  <lastmod>2013-09-14</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://loge.github.io/posts/2013/writing-is-difficult-for-me.html</loc>
+  <lastmod>2013-09-14</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://loge.github.io/stories/about-me.html</loc>
-  <lastmod>2013-09-12</lastmod>
+  <lastmod>2013-09-13</lastmod>
   <priority>0.5000</priority>
  </url>
 </urlset>
