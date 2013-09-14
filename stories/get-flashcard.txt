@@ -1,0 +1,9 @@
+.. link: http://loge.github.io/stories/2013/get-flashcard.html
+.. description: 
+.. tags: Me
+.. tags: You
+.. date: 2013/09/14 15:00:00
+.. title: دریافت فلش‌کارت
+.. slug: get-flashcard
+
+skjd
