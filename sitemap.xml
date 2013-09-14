@@ -6,7 +6,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://loge.github.io/</loc>
-  <lastmod>2013-09-12</lastmod>
+  <lastmod>2013-09-15</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -16,12 +16,22 @@
  </url>
  <url>
   <loc>http://loge.github.io/2013/index.html</loc>
-  <lastmod>2013-09-13</lastmod>
+  <lastmod>2013-09-14</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://loge.github.io/archive.html</loc>
-  <lastmod>2013-09-13</lastmod>
+  <lastmod>2013-09-14</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://loge.github.io/blog/</loc>
+  <lastmod>2013-09-14</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://loge.github.io/blog/index.html</loc>
+  <lastmod>2013-09-15</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -31,7 +41,7 @@
  </url>
  <url>
   <loc>http://loge.github.io/categories/index.html</loc>
-  <lastmod>2013-09-13</lastmod>
+  <lastmod>2013-09-14</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -47,6 +57,16 @@
  <url>
   <loc>http://loge.github.io/galleries/index.html</loc>
   <lastmod>2013-09-13</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://loge.github.io/go/</loc>
+  <lastmod>2013-09-14</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://loge.github.io/go/index.html</loc>
+  <lastmod>2013-09-15</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -71,12 +91,17 @@
  </url>
  <url>
   <loc>http://loge.github.io/posts/2013/writing-is-difficult-for-me.html</loc>
-  <lastmod>2013-09-14</lastmod>
+  <lastmod>2013-09-15</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://loge.github.io/stories/about-me.html</loc>
-  <lastmod>2013-09-13</lastmod>
+  <lastmod>2013-09-14</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://loge.github.io/stories/get-flashcard.html</loc>
+  <lastmod>2013-09-14</lastmod>
   <priority>0.5000</priority>
  </url>
 </urlset>
