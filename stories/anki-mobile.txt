@@ -1,0 +1,29 @@
+.. link: http://loge.github.io/stories/anki-mobile.html
+.. description: 
+.. tags: Flashcard
+.. date: 2013/09/14 15:00:00
+.. title: فلش‌کارت‌ها برای موبایل و تبلت‌ها
+.. slug: anki-mobile
+
+یکی از ویژگی‌های بزرگ برنامهٔ آنکی قابلیت نصب بر روی موبایل‌ها و تبلت‌هاست. شما می‌توانید این برنامه را از پلی‌استور برای آندروید و از اپ‌استور برای iOS دریافت کنید. 
+
+برای آشنایی با این برنامه ابتدا پست مربوط به نسخهٔ دسکتاپ آن را از `اینجا <http://loge.github.io/stories/anki.html>`_ مشاهده کنید.
+
+برای وارد کردن فلش‌کارت به این برنامه ابتدا پکیج‌های فلش‌کارت را در مسیر  AnkiDroid و یا مسیر مربوطه در سیستم iOS قرار دهید و سپس از منوی اصلی گزینهٔ Import cards را 
+انتخاب کنید.
+
+.. image:: https://dl.dropboxusercontent.com/u/12670505/loge/photo/stories/anki/11.jpeg
+
+سپس بر روی Start Reviewing برار مرور فلش‌کارت‌ها کلیک کنید.
+
+.. image:: https://dl.dropboxusercontent.com/u/12670505/loge/photo/stories/anki/10.jpeg
+
+تصویر زیر روی فلش‌کارت است که ابتدا به شما نشان داده می‌شود. جواب را حدس بزنید و بر روی Answer برای نمایش پاسخ کلیک کنید. 
+
+.. image:: https://dl.dropboxusercontent.com/u/12670505/loge/photo/stories/anki/13.jpeg
+
+سه گزینه پیش روی شما قرار می‌گیرد. اگر از برنامهٔ خود آنکی جهت مرور کلمات استفاده می‌کنید که گزینهٔ مناسب را از بینشان انتخاب کنید ولی چنانچه از برنامهٔ 
+ما و `تکنیک یادگیری دائمی <http://loge.github.io/stories/how-to-use-flashcard.html>`_ که در این وبلاگ درباره‌ش خوانده‌اید بهره می‌برید 
+بر روی Agian کلیک کنید تا فلش‌کارت‌ها در هر زمان که مساعد دیدید در اختیار شما باشد چرا که همانگونه که گفته شد ما برنامه‌ریزی خودمان را داریم.
+
+.. image:: https://dl.dropboxusercontent.com/u/12670505/loge/photo/stories/anki/14.jpeg
