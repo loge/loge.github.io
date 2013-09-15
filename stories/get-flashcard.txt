@@ -11,10 +11,44 @@
 
 فلش کارت‌ها با چند فرمت مختلف در اختیار شما قرار خواهد گرفت:
 
-۱- فرمت kvtml قابل اجرا توسط برنامه kdeedu-kwordquiz که یکی از برنامه‌های توسعه داده شده توسط اجتماع KDE می‌باشد و در تمامی گنو/لینوکس‌ها در دسترس می‌باشد، آموزش استفاده از آن را می‌توانید از `KWordQuiz <http://loge.github.io/stories/kwordquiz.html>`_ مشاهده نمائید.
+۱- فرمت kvtml قابل اجرا توسط برنامه kdeedu-kwordquiz که یکی از برنامه‌های توسعه داده شده توسط اجتماع KDE می‌باشد و در تمامی گنو/لینوکس‌ها در دسترس می‌باشد، آموزش استفاده از آن را می‌توانید از KWordQuiz_ مشاهده نمائید.
 
-۲- فرمت anki که توسط برنامه فوق هوشمند Anki اجرا می‌شود، این برنامه تحت سیستم‌عامل‌های گنو/لینوکس، ویندوز و مک قابل اجراست و همچنین با این فرمت شما می‌توانید از فلش کارت‌ها بر روی تلفن همراه یا تبلت خود استفاده کنید. آموزش استفاده از این برنامه بر روی رایانه را از `Anki <http://loge.github.io/stories/anki.html>`_ و نحوه استفاده از آن را بر روی تلفن‌های همراه از `Anki-Mobile <http://loge.github.io/stories/anki-mobile.html>`_ مشاهده نمائید.
+۲- فرمت anki که توسط برنامه فوق هوشمند Anki_ اجرا می‌شود، این برنامه تحت سیستم‌عامل‌های گنو/لینوکس، ویندوز و مک قابل اجراست و همچنین با این فرمت شما می‌توانید از فلش کارت‌ها بر روی تلفن همراه یا تبلت خود استفاده کنید. آموزش استفاده از این برنامه بر روی رایانه را از Anki_ و نحوه استفاده از آن را بر روی تلفن‌های همراه از `Anki-Mobile <http://loge.github.io/stories/anki-mobile.html>`_ مشاهده نمائید.
 
 برای آشنایی با نحوه کار، تکنیک یادگیری دائم را از `اینجا <http://loge.github.io/stories/how-to-use-flashcard.html>`_ مشاهده نمائید.
 
 لیست زیر شامل فلش‌کارت‌هاییست که تا کنون ساخته شده. این صفحه بعد از ساخت هر فلش‌کارت به‌روز خواهد شد.
+
+برای دریافت نسخهٔ Anki_ بر روی A#‎ و برای دریافت نسخهٔ مخصوص برنامهٔ KWordQuiz_ بر روی K#‎ کلیک کنید (# نمایانگر شمارهٔ فلش‌کارت است به عنوان مثال برای دریافت دک فلش‌کارت ۱۰۵ برنامهٔ Anki بر روی A105 کلیک کنید).
+
++--------+--------+
+|   Anki | Kvtml  |   
++========+========+
+|  A105_ | K105_  |
++--------+--------+
+|  A106_ | K106_  |
++--------+--------+
+|  A107_ | K107_  |
++--------+--------+
+|  A108_ | K108_  |
++--------+--------+
+|  A109_ | K109_  |
++--------+--------+
+|  A110_ | K110_  |
++--------+--------+
+
+
+.. _Anki: http://loge.github.io/stories/anki.html
+.. _KWordQuiz: http://loge.github.io/stories/kwordquiz.html
+.. _A105: https://dl.dropbox.com/u/12670505/Flashcard/anki/105.apkg
+.. _K105: https://dl.dropbox.com/u/12670505/Flashcard/kvtml/105.kvtml.tar.gz
+.. _A106: https://dl.dropbox.com/u/12670505/Flashcard/anki/106.apkg
+.. _K106: https://dl.dropbox.com/u/12670505/Flashcard/kvtml/106.kvtml.tar.gz
+.. _A107: https://dl.dropbox.com/u/12670505/Flashcard/anki/107.apkg
+.. _K107: https://dl.dropbox.com/u/12670505/Flashcard/kvtml/107.kvtml.tar.gz
+.. _A108: https://dl.dropbox.com/u/12670505/Flashcard/anki/108.apkg
+.. _K108: https://dl.dropbox.com/u/12670505/Flashcard/kvtml/108.kvtml.tar.gz
+.. _A109: https://dl.dropbox.com/u/12670505/Flashcard/anki/109.apkg
+.. _K109: https://dl.dropbox.com/u/12670505/Flashcard/kvtml/109.kvtml.tar.gz
+.. _A110: https://dl.dropbox.com/u/12670505/Flashcard/anki/110.apkg
+.. _K110: https://dl.dropbox.com/u/12670505/Flashcard/kvtml/110.kvtml.tar.gz
