@@ -16,6 +16,7 @@
 تگ‌هایی که تاکنون از آن‌ها در این وبلاگ استفاده شده به شرح زیر است (این لیست به‌روز خواهد شد):
 
 - Me_ 
+- Flashcard_
 
 در قسمت ABOUT مختصری دربارهٔ این وبلاگ توضیح داده شده و توسط گزینهٔ RSS می‌توانید مشترک فید اینجا شوید.
 
@@ -25,4 +26,5 @@
 
 
 .. _Me: http://loge.github.io/categories/me.html
+.. _Flashcard: http://loge.github.io/categories/flashcard.html
 .. _DuckDuckGo: https://duckduckgo.com/
