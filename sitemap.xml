@@ -31,27 +31,32 @@
  </url>
  <url>
   <loc>http://loge.github.io/blog/index.html</loc>
-  <lastmod>2013-09-16</lastmod>
+  <lastmod>2013-09-22</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://loge.github.io/categories/</loc>
-  <lastmod>2013-09-15</lastmod>
+  <lastmod>2013-09-22</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://loge.github.io/categories/flashcard.html</loc>
-  <lastmod>2013-09-15</lastmod>
+  <lastmod>2013-09-22</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://loge.github.io/categories/health.html</loc>
+  <lastmod>2013-09-22</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://loge.github.io/categories/index.html</loc>
-  <lastmod>2013-09-16</lastmod>
+  <lastmod>2013-09-22</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://loge.github.io/categories/me.html</loc>
-  <lastmod>2013-09-15</lastmod>
+  <lastmod>2013-09-22</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -91,12 +96,17 @@
  </url>
  <url>
   <loc>http://loge.github.io/posts/2013/flashcards-are-on-board.html</loc>
-  <lastmod>2013-09-15</lastmod>
+  <lastmod>2013-09-22</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://loge.github.io/posts/2013/hello-nikola.html</loc>
   <lastmod>2013-09-15</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://loge.github.io/posts/2013/improve_your_eyesight.html</loc>
+  <lastmod>2013-09-22</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -121,7 +131,7 @@
  </url>
  <url>
   <loc>http://loge.github.io/stories/get-flashcard.html</loc>
-  <lastmod>2013-09-16</lastmod>
+  <lastmod>2013-09-17</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
