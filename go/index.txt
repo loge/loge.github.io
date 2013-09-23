@@ -17,6 +17,7 @@
 
 - Me_ 
 - Flashcard_
+- Health_
 
 در قسمت ABOUT مختصری دربارهٔ این وبلاگ توضیح داده شده و توسط گزینهٔ RSS می‌توانید مشترک فید اینجا شوید.
 
@@ -26,5 +27,6 @@
 
 
 .. _Me: http://loge.github.io/categories/me.html
+.. _Health: http://loge.github.io/categories/health.html
 .. _Flashcard: http://loge.github.io/categories/flashcard.html
 .. _DuckDuckGo: https://duckduckgo.com/
