@@ -40,6 +40,8 @@
 +--------+--------+
 |  A112_ | K112_  |
 +--------+--------+
+|  A113_ | K113_  |
++--------+--------+
 
 برای دریافت به‌روز رسانی‌ها می‌توانید در پایین این صفحه، ایمیل خود را در قسمت 
 *عضویت از طریق ایمیل* وارد و تأیید کنید. ما بعد از قرار گرفتن هر دک 
@@ -64,3 +66,5 @@
 .. _K111: https://dl.dropbox.com/u/12670505/Flashcard/kvtml/111.kvtml.tar.gz
 .. _A112: https://dl.dropbox.com/u/12670505/Flashcard/anki/112.apkg
 .. _K112: https://dl.dropbox.com/u/12670505/Flashcard/kvtml/112.kvtml.tar.gz
+.. _A113: https://dl.dropbox.com/u/12670505/Flashcard/anki/113.apkg
+.. _K113: https://dl.dropbox.com/u/12670505/Flashcard/kvtml/113.kvtml.tar.gz
