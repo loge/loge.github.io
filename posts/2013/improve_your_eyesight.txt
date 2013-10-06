@@ -97,6 +97,14 @@
 
 منبع_
 
+قبل از اینکه از اینجا برید یه تست آنلاین چشم هم هست که به شدت توصیه می‌کنم انجامش بدید.
+
+`Test Your Eyesight On Visionexpress.com <http://www.visionexpress.com/eye-health/online-sight-check/>`_
+
+اینم مشخصات چشمای من:
+
+.. image:: https://dl.dropboxusercontent.com/u/12670505/loge/photo/posts/2013/improve_your_eyesight/eyesight.jpeg
+
 راستی برای این موارد همانند برنامه‌های آزاد ضمانتی از جانب من وجود نداره که این روش‌های اصلا کار بده یا نده یا خوب باشه یا بد. اونچیزی که یاد می‌گیرم رو میام با شما در میون می‌گذارم. همین 
 
 .. _منبع: http://www.mediafire.com/?5xlfkv2l2c8fofc
