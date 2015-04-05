@@ -6,157 +6,157 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://loge.github.io/</loc>
-  <lastmod>2013-10-06</lastmod>
+  <lastmod>2014-11-02</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://loge.github.io/2013/</loc>
-  <lastmod>2013-09-12</lastmod>
+  <lastmod>2014-11-02</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://loge.github.io/2013/index.html</loc>
-  <lastmod>2013-09-16</lastmod>
+  <lastmod>2015-04-05</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://loge.github.io/archive.html</loc>
-  <lastmod>2013-09-16</lastmod>
+  <lastmod>2015-04-05</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://loge.github.io/blog/</loc>
-  <lastmod>2013-09-14</lastmod>
+  <lastmod>2014-11-02</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://loge.github.io/blog/index.html</loc>
-  <lastmod>2013-10-18</lastmod>
+  <lastmod>2015-04-05</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://loge.github.io/categories/</loc>
-  <lastmod>2013-09-22</lastmod>
+  <lastmod>2014-11-02</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://loge.github.io/categories/flashcard.html</loc>
-  <lastmod>2013-09-22</lastmod>
+  <lastmod>2015-04-05</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://loge.github.io/categories/health.html</loc>
-  <lastmod>2013-10-18</lastmod>
+  <lastmod>2015-04-05</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://loge.github.io/categories/index.html</loc>
-  <lastmod>2013-09-22</lastmod>
+  <lastmod>2015-04-05</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://loge.github.io/categories/me.html</loc>
-  <lastmod>2013-09-22</lastmod>
+  <lastmod>2015-04-05</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://loge.github.io/galleries/</loc>
-  <lastmod>2013-09-12</lastmod>
+  <lastmod>2014-11-02</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://loge.github.io/galleries/index.html</loc>
-  <lastmod>2013-09-16</lastmod>
+  <lastmod>2014-04-06</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://loge.github.io/go/</loc>
-  <lastmod>2013-09-14</lastmod>
+  <lastmod>2014-11-02</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://loge.github.io/go/index.html</loc>
-  <lastmod>2013-10-18</lastmod>
+  <lastmod>2015-04-05</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://loge.github.io/index.html</loc>
-  <lastmod>2013-09-14</lastmod>
+  <lastmod>2014-04-06</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://loge.github.io/listings/</loc>
-  <lastmod>2013-09-12</lastmod>
+  <lastmod>2014-11-02</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://loge.github.io/listings/index.html</loc>
-  <lastmod>2013-09-13</lastmod>
+  <lastmod>2014-04-06</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://loge.github.io/posts/2013/flashcards-are-on-board.html</loc>
-  <lastmod>2013-10-18</lastmod>
+  <lastmod>2015-04-05</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://loge.github.io/posts/2013/hello-nikola.html</loc>
-  <lastmod>2013-10-18</lastmod>
+  <lastmod>2015-04-05</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://loge.github.io/posts/2013/how-1-minute-intervals-can-improve-our-health.html</loc>
-  <lastmod>2013-10-18</lastmod>
+  <lastmod>2015-04-05</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://loge.github.io/posts/2013/how-much-sleep-do-you-really-need-to-work-productively.html</loc>
-  <lastmod>2013-10-18</lastmod>
+  <lastmod>2015-04-05</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://loge.github.io/posts/2013/improve-your-brain-power.html</loc>
-  <lastmod>2013-10-18</lastmod>
+  <lastmod>2015-04-05</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://loge.github.io/posts/2013/improve_your_eyesight.html</loc>
-  <lastmod>2013-10-18</lastmod>
+  <lastmod>2015-04-05</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://loge.github.io/posts/2013/writing-is-difficult-for-me.html</loc>
-  <lastmod>2013-10-18</lastmod>
+  <lastmod>2015-04-05</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://loge.github.io/stories/about-me.html</loc>
-  <lastmod>2013-10-18</lastmod>
+  <lastmod>2015-04-05</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://loge.github.io/stories/anki-mobile.html</loc>
-  <lastmod>2013-10-18</lastmod>
+  <lastmod>2015-04-05</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://loge.github.io/stories/anki.html</loc>
-  <lastmod>2013-10-18</lastmod>
+  <lastmod>2015-04-05</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://loge.github.io/stories/get-flashcard.html</loc>
-  <lastmod>2013-10-18</lastmod>
+  <lastmod>2015-04-05</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://loge.github.io/stories/how-to-use-flashcard.html</loc>
-  <lastmod>2013-10-18</lastmod>
+  <lastmod>2015-04-05</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://loge.github.io/stories/kwordquiz.html</loc>
-  <lastmod>2013-10-18</lastmod>
+  <lastmod>2015-04-05</lastmod>
   <priority>0.5000</priority>
  </url>
 </urlset>
