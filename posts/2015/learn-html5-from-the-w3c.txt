@@ -1,0 +1,24 @@
+.. link: http://loge.github.io/posts/2015/learn-html5-from-the-w3c.html
+.. description: 
+.. tags: Health
+.. date: 2015/04/07 12:00:00
+.. title: دورهی رایگان آموزش HTML5
+.. slug: learn-html5-from-the-w3c
+
+علاقه به ساخت وب‌سایت و یا اپ‌ها دارید؟ خب راه برای یادگیری HTML5 (زبان استاندارد وب) اکنون باز است. دوره‌ای از W3C که توسعه‌دهنده‌ی HTML5 است به صورت رایگان پیش روی شماست.
+
+.. TEASER_END
+
+.. youtube:: 1zWhDg8wEJY
+  :height: 375
+  :width: 500
+  
+این دوره‌ی شش هفته‌ای از ماه ژوئن آغاز می‌شود ولی شما می‌توانید که اکنون در edX ثبت‌نام کنید.
+
+پیش‌نیازهای دوره آشنایی با اصول بنیادی HTML و CSS است. (دانستن JavaScript هم ضروری نیست ولی مفید خواهد بود). 
+
+البته اگر آشنایی هم با موارد فوق‌الذکر ندارید `این یکی دوره‌ی <http://learn.shayhowe.com/html-css/>` رایگان در خصوص HTML و CSS می‌تواند شما را به‌موقع سر کلاس برساند.
+
+آدرس دوره: https://www.edx.org/course/learn-html5-w3c-w3cx-html5-1x
+
+منبع: لایف هکر

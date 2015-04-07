@@ -1,9 +1,9 @@
-.. link: http://loge.github.io/posts/2015/Clean-Your-Teeth-like-a-Dentist.txt
+.. link: http://loge.github.io/posts/2015/Clean-Your-Teeth-like-a-Dentist.html
 .. description: 
 .. tags: Health
 .. date: 2015/04/07 12:00:00
 .. title: مثل یک دندان پزشک نخ دندان بکشید
-.. slug: Clean-Your-Teeth-like-a-Dentist.txt
+.. slug: Clean-Your-Teeth-like-a-Dentist
 
 «مسواک زدن به تنهایی کافی نیست» این جمله‌ای هست که دندان‌پزشکم زمانی که دندان‌هام رو معاینه کرد زیر گوشم گفت. و الان بعد از چند وقتی که نخ دندان می‌کشم به این جمله ایمان آوردم. حقیقتش اینه که مقداری از خرد غذاها بین دندون‌ها، جایی که مسواک از پس پاکسازی‌شون بر نمیاد گیر می‌کنه و میشه یه محل مناسب برای رشد باکتری‌ها و در نهایت پوسیدگی دندان.
 
