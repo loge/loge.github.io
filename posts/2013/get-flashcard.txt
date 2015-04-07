@@ -1,7 +1,7 @@
 .. link: http://loge.github.io/stories/get-flashcard.html
 .. description: 
 .. tags: Flashcard
-.. date: 2013/09/14 15:00:00
+.. date: 2013/09/19 15:00:00
 .. title: دریافت فلش‌کارت
 .. slug: get-flashcard
 
