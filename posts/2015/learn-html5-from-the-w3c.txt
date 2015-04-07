@@ -1,8 +1,8 @@
 .. link: http://loge.github.io/posts/2015/learn-html5-from-the-w3c.html
 .. description: 
 .. tags: Health
-.. date: 2015/04/07 12:00:00
-.. title: دورهی رایگان آموزش HTML5
+.. date: 2015/04/08 12:00:00
+.. title: دوره‌ی رایگان آموزش HTML5
 .. slug: learn-html5-from-the-w3c
 
 علاقه به ساخت وب‌سایت و یا اپ‌ها دارید؟ خب راه برای یادگیری HTML5 (زبان استاندارد وب) اکنون باز است. دوره‌ای از W3C که توسعه‌دهنده‌ی HTML5 است به صورت رایگان پیش روی شماست.
