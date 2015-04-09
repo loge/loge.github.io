@@ -11,13 +11,17 @@
 
 این‌جاست که نخ دندان وارد عمل می‌شه. دیروز این ویدیو رو در سایت لایف هکر دیدم و گفتم شاید بد نباشه که روی آپارات آپلود کنم تا شما هم نحوه‌ی صحیح نخ دندان کشیدن رو یاد بگیرید.
 
-برای مشاهده از طریق آپارت روی این `لینک <http://www.aparat.com/v/lLiK5>`_ کلیک کنید.
+مشاهده از طریق آپارات:
+
+.. raw:: html
+
+   <iframe src="http://www.aparat.com/video/video/embed/videohash/lLiK5/vt/frame" allowFullScreen="true" webkitallowfullscreen="true" mozallowfullscreen="true" height="340" width="600" ></iframe>
 
 مشاهده از طریق یوتیوب:
 
 .. youtube:: SRivxlG8Bmc
-  :height: 375
-  :width: 500
+  :height: 450
+  :width: 600
    
 ویدیو واضح هست و نیازی به توضیح اضافه‌ی من نیست ولی چند نکته‌ای که عنوان می‌کنه عبارتند از:
 

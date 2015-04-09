@@ -197,7 +197,7 @@ input[type=submit]:focus{
 #siteWrapper{
   margin: 0 auto;
   padding-top: 15px;
-  width: 500px;
+  width: 600px;
   text-align: center;
   position: relative;
   
@@ -308,7 +308,7 @@ input[type=submit]:focus{
 
 #coreContent{
   float: left;
-  width: 500px;
+  width: 600px;
   margin-top: 8px;
 }
 
@@ -686,7 +686,7 @@ legend span{
   padding: 0 0 .7em;
   font-weight: bold;
   text-align: left;
-  width: 500px;
+  width: 600px;
 }
 .comment legend span{
   border: none;
@@ -743,7 +743,7 @@ legend span{
 #coreContent #comments .comment .commentForm input[type=text],
 #coreContent #comments .comment .commentForm textarea{
   width: 100%;
-  max-width: 500px;
+  max-width: 600px;
 }
 .commentForm textarea{
   width: 242px;
@@ -752,8 +752,8 @@ legend span{
   font-size: 1.2em;
 }
 .commentForm textarea.loggedIn{
-  width: 500px;
-  max-width: 500px; /* Restricts the resizing capability in webkit bases browsers */
+  width: 600px;
+  max-width: 600px; /* Restricts the resizing capability in webkit bases browsers */
 }
 .commentForm input[type=submit]{
   float: right;
@@ -966,7 +966,7 @@ ul#recentPosts li{
 -------------------------------------------------------------------- */
 
 #footer{
-  width: 500px;
+  width: 600px;
   margin: 40px auto 0;
   padding: 20px 0 35px 0;
   border-top: 4px double #ccc;
@@ -974,7 +974,7 @@ ul#recentPosts li{
   text-align: center;
 }
 .footerContent{
-  width: 500px;
+  width: 600px;
   margin: 20px auto 0;
   clear: left;
 }
