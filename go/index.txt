@@ -19,6 +19,8 @@
 - Health_ > اخبار و دانستنی‌هایی مفید در خصوص سلامتی
 - Course_ > دوره‌های آموزشی
 - 2nate_ > کمپین‌های من بر روی وب‌سایت دونیت
+- Deal_ > دریافت برنامه‌های باارزشِِ غیررایگان، به صورت رایگان و قانونی (مدت محدود)
+
 
 در قسمت ABOUT مختصری دربارهٔ این وبلاگ توضیح داده شده و توسط گزینهٔ RSS می‌توانید مشترک فید اینجا شوید.
 
@@ -34,3 +36,4 @@
 .. _Course: http://loge.github.io/categories/course.html
 .. _2nate: http://loge.github.io/categories/2nate.html
 .. _DuckDuckGo: https://duckduckgo.com/
+.. _Deal: http://loge.github.io/categories/deal.html
