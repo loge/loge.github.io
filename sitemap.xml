@@ -56,7 +56,7 @@
  </url>
  <url>
   <loc>http://loge.github.io/categories/</loc>
-  <lastmod>2015-04-08</lastmod>
+  <lastmod>2015-04-10</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -66,7 +66,12 @@
  </url>
  <url>
   <loc>http://loge.github.io/categories/course.html</loc>
-  <lastmod>2015-04-09</lastmod>
+  <lastmod>2015-04-10</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://loge.github.io/categories/deal.html</loc>
+  <lastmod>2015-04-10</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -81,12 +86,12 @@
  </url>
  <url>
   <loc>http://loge.github.io/categories/index.html</loc>
-  <lastmod>2015-04-09</lastmod>
+  <lastmod>2015-04-10</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://loge.github.io/categories/me.html</loc>
-  <lastmod>2015-04-09</lastmod>
+  <lastmod>2015-04-10</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -201,6 +206,11 @@
  </url>
  <url>
   <loc>http://loge.github.io/posts/2015/Clean-Your-Teeth-like-a-Dentist.html</loc>
+  <lastmod>2015-04-10</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://loge.github.io/posts/2015/PowerISO-6-Free.html</loc>
   <lastmod>2015-04-10</lastmod>
   <priority>0.5000</priority>
  </url>
