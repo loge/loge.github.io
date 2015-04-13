@@ -1,6 +1,6 @@
 .. link: http://loge.github.io/posts/2013/improve_your_eyesight.html
 .. description: 
-.. tags: Health
+.. tags: Health,Eye
 .. date: 2013/09/22 14:00:00
 .. title: چشمان خود را تقویت کنید
 .. slug: improve_your_eyesight

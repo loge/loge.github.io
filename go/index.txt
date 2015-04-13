@@ -17,10 +17,21 @@
 - Me_ > دربارهٔ خودم
 - Flashcard_ > دریافت و آشنایی با نحوهٔ استفاده از فلش‌کارت‌ها
 - Health_ > اخبار و دانستنی‌هایی مفید در خصوص سلامتی
-- Course_ > دوره‌های آموزشی
+- Course_ > دوره‌های آموزشی عمدتاً رایگان
 - 2nate_ > کمپین‌های من بر روی وب‌سایت دونیت
-- Deal_ > دریافت برنامه‌های باارزشِِ غیررایگان، به صورت رایگان و قانونی (مدت محدود)
-
+- Deal_ > دریافت برنامه‌های باارزشِِ غیررایگان، به صورت رایگان و قانونی
+- Learn_ > پست‌هایی در خصوص یادگیری
+- Language_ > اطلاعاتی درباره‌ی زبان «به خصوص انگلیسی»
+- BodyBuilding_ > درباره‌ی بدن و بدن‌سازی
+- Sleep_ > دانستی‌هایی در رابطه با خواب
+- Eye_ > اطلاعاتی درباره‌ی چشم‌هایمان
+- Brain_ > اطلاعاتی درباره‌ی مغزمان
+- Teeth_ > دانستی‌هایی در خصوص دندان و بهداشت آن
+- Quora_ > سؤالات برگزیده‌ی کورا 
+- HTML5_ > درباره‌ی زبان HTML5
+- Mint_ > در خصوص لینوکس‌مینت
+- Linux_ > درباره‌ی توزیع‌های لینوکسی
+- Book_ >  معرفی و یا دانلود کتاب
 
 در قسمت ABOUT مختصری دربارهٔ این وبلاگ توضیح داده شده و توسط گزینهٔ RSS می‌توانید مشترک فید اینجا شوید.
 
@@ -37,3 +48,16 @@
 .. _2nate: ../categories/2nate.html
 .. _DuckDuckGo: https://duckduckgo.com/
 .. _Deal: ../categories/deal.html
+.. _Learn: ../categories/learn.html
+.. _Language: ../categories/language.html
+.. _BodyBuilding: ../categories/bodybuilding.html
+.. _Sleep: ../categories/sleep.html
+.. _Eye: ../categories/eye.html
+.. _Brain: ../categories/brain.html
+.. _Teeth: ../categories/teeth.html
+.. _Quora: ../categories/quora.html
+.. _HTML5: ../categories/html5.html
+.. _Mint: ../categories/mint.html
+.. _Linux: ../categories/linux.html
+.. _Book: ../categories/book.html
+

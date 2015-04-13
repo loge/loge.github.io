@@ -1,6 +1,6 @@
 .. link: http://loge.github.io/posts/2015/linuxmint-cinnamon-171-official-guide
 .. description: 
-.. tags: 2nate
+.. tags: 2nate,Mint,Linux,Book
 .. date: 2015/04/06 14:00:00
 .. title: ترجمهٔ کتاب «راهنمای لینوکس مینت»
 .. slug: linuxmint-cinnamon-171-official-guide

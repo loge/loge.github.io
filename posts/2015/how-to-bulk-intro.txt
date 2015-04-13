@@ -1,6 +1,6 @@
 .. link: http://loge.github.io/posts/2015/how-to-bulk-intro.html
 .. description: 
-.. tags: Health
+.. tags: Health,BodyBuilding
 .. date: 2015/04/10 10:00:00
 .. title: چگونه فرانکی شویم!
 .. slug: how-to-bulk-intro

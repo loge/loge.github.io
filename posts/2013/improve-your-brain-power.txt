@@ -1,6 +1,6 @@
 .. link: http://loge.github.io/posts/2013/improve-your-brain-power.html
 .. description: 
-.. tags: Health
+.. tags: Health,Brain
 .. date: 2013/10/10 11:30:00
 .. title: مغز خود را تقویت کنید!
 .. slug: improve-your-brain-power

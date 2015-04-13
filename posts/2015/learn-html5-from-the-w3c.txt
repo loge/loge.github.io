@@ -1,6 +1,6 @@
 .. link: http://loge.github.io/posts/2015/learn-html5-from-the-w3c.html
 .. description: 
-.. tags: Course
+.. tags: Course,HTML5,Learn
 .. date: 2015/04/08 11:00:00
 .. title: دوره‌ی رایگان آموزش HTML5
 .. slug: learn-html5-from-the-w3c

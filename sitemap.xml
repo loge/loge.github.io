@@ -41,57 +41,127 @@
  </url>
  <url>
   <loc>http://loge.github.io/blog/index-1.html</loc>
-  <lastmod>2015-04-11</lastmod>
+  <lastmod>2015-04-13</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://loge.github.io/blog/index-2.html</loc>
-  <lastmod>2015-04-11</lastmod>
+  <lastmod>2015-04-13</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://loge.github.io/blog/index.html</loc>
-  <lastmod>2015-04-11</lastmod>
+  <lastmod>2015-04-13</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://loge.github.io/categories/</loc>
-  <lastmod>2015-04-10</lastmod>
+  <lastmod>2015-04-13</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://loge.github.io/categories/2nate.html</loc>
-  <lastmod>2015-04-11</lastmod>
+  <lastmod>2015-04-13</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://loge.github.io/categories/body-building.html</loc>
+  <lastmod>2015-04-13</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://loge.github.io/categories/bodybuilding.html</loc>
+  <lastmod>2015-04-13</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://loge.github.io/categories/book.html</loc>
+  <lastmod>2015-04-13</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://loge.github.io/categories/brain.html</loc>
+  <lastmod>2015-04-13</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://loge.github.io/categories/course.html</loc>
-  <lastmod>2015-04-11</lastmod>
+  <lastmod>2015-04-13</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://loge.github.io/categories/deal.html</loc>
-  <lastmod>2015-04-11</lastmod>
+  <lastmod>2015-04-13</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://loge.github.io/categories/english.html</loc>
+  <lastmod>2015-04-13</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://loge.github.io/categories/eye.html</loc>
+  <lastmod>2015-04-13</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://loge.github.io/categories/flashcard.html</loc>
-  <lastmod>2015-04-11</lastmod>
+  <lastmod>2015-04-13</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://loge.github.io/categories/health.html</loc>
-  <lastmod>2015-04-11</lastmod>
+  <lastmod>2015-04-13</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://loge.github.io/categories/html5.html</loc>
+  <lastmod>2015-04-13</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://loge.github.io/categories/index.html</loc>
-  <lastmod>2015-04-11</lastmod>
+  <lastmod>2015-04-13</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://loge.github.io/categories/language.html</loc>
+  <lastmod>2015-04-13</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://loge.github.io/categories/learn.html</loc>
+  <lastmod>2015-04-13</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://loge.github.io/categories/linux.html</loc>
+  <lastmod>2015-04-13</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://loge.github.io/categories/me.html</loc>
-  <lastmod>2015-04-11</lastmod>
+  <lastmod>2015-04-13</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://loge.github.io/categories/mint.html</loc>
+  <lastmod>2015-04-13</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://loge.github.io/categories/quora.html</loc>
+  <lastmod>2015-04-13</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://loge.github.io/categories/sleep.html</loc>
+  <lastmod>2015-04-13</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://loge.github.io/categories/teeth.html</loc>
+  <lastmod>2015-04-13</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -121,7 +191,7 @@
  </url>
  <url>
   <loc>http://loge.github.io/go/index.html</loc>
-  <lastmod>2015-04-11</lastmod>
+  <lastmod>2015-04-13</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -146,102 +216,112 @@
  </url>
  <url>
   <loc>http://loge.github.io/posts/2013/anki-mobile.html</loc>
-  <lastmod>2015-04-11</lastmod>
+  <lastmod>2015-04-13</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://loge.github.io/posts/2013/anki.html</loc>
-  <lastmod>2015-04-11</lastmod>
+  <lastmod>2015-04-13</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://loge.github.io/posts/2013/flashcards-are-on-board.html</loc>
-  <lastmod>2015-04-11</lastmod>
+  <lastmod>2015-04-13</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://loge.github.io/posts/2013/get-flashcard.html</loc>
-  <lastmod>2015-04-11</lastmod>
+  <lastmod>2015-04-13</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://loge.github.io/posts/2013/hello-nikola.html</loc>
-  <lastmod>2015-04-11</lastmod>
+  <lastmod>2015-04-13</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://loge.github.io/posts/2013/how-1-minute-intervals-can-improve-our-health.html</loc>
-  <lastmod>2015-04-11</lastmod>
+  <lastmod>2015-04-13</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://loge.github.io/posts/2013/how-much-sleep-do-you-really-need-to-work-productively.html</loc>
-  <lastmod>2015-04-11</lastmod>
+  <lastmod>2015-04-13</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://loge.github.io/posts/2013/how-to-use-flashcard.html</loc>
-  <lastmod>2015-04-11</lastmod>
+  <lastmod>2015-04-13</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://loge.github.io/posts/2013/improve-your-brain-power.html</loc>
-  <lastmod>2015-04-11</lastmod>
+  <lastmod>2015-04-13</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://loge.github.io/posts/2013/improve_your_eyesight.html</loc>
-  <lastmod>2015-04-11</lastmod>
+  <lastmod>2015-04-13</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://loge.github.io/posts/2013/kwordquiz.html</loc>
-  <lastmod>2015-04-11</lastmod>
+  <lastmod>2015-04-13</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://loge.github.io/posts/2013/writing-is-difficult-for-me.html</loc>
-  <lastmod>2015-04-11</lastmod>
+  <lastmod>2015-04-13</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://loge.github.io/posts/2015/Bitdefender-6-Months-Free-2015-04.html</loc>
-  <lastmod>2015-04-11</lastmod>
+  <lastmod>2015-04-13</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://loge.github.io/posts/2015/Clean-Your-Teeth-like-a-Dentist.html</loc>
-  <lastmod>2015-04-11</lastmod>
+  <lastmod>2015-04-13</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://loge.github.io/posts/2015/Learn-a-New-Language-Part1.html</loc>
+  <lastmod>2015-04-13</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://loge.github.io/posts/2015/Learn-a-New-Language.html</loc>
+  <lastmod>2015-04-13</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://loge.github.io/posts/2015/PowerISO-6-Free.html</loc>
-  <lastmod>2015-04-11</lastmod>
+  <lastmod>2015-04-13</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://loge.github.io/posts/2015/how-to-bulk-intro.html</loc>
-  <lastmod>2015-04-11</lastmod>
+  <lastmod>2015-04-13</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://loge.github.io/posts/2015/learn-html5-from-the-w3c.html</loc>
-  <lastmod>2015-04-11</lastmod>
+  <lastmod>2015-04-13</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://loge.github.io/posts/2015/linuxmint-cinnamon-171-official-guide.html</loc>
-  <lastmod>2015-04-11</lastmod>
+  <lastmod>2015-04-13</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://loge.github.io/posts/2015/sleep-hacks-mobile-gadgets.html</loc>
-  <lastmod>2015-04-11</lastmod>
+  <lastmod>2015-04-13</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://loge.github.io/stories/about-me.html</loc>
-  <lastmod>2015-04-11</lastmod>
+  <lastmod>2015-04-13</lastmod>
   <priority>0.5000</priority>
  </url>
 </urlset>

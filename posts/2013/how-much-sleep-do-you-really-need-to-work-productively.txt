@@ -1,6 +1,6 @@
 .. link: http://loge.github.io/posts/2013/how-much-sleep-do-you-really-need-to-work-productively.html
 .. description: 
-.. tags: Health
+.. tags: Health,Sleep
 .. date: 2013/09/23 13:00:00
 .. title: برای کار کرد عالی بدن به چه مقدار خواب نیاز دارد؟
 .. slug: how-much-sleep-do-you-really-need-to-work-productively

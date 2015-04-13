@@ -1,6 +1,6 @@
 .. link: http://loge.github.io/posts/2015/sleep-hacks-mobile-gadgets.html
 .. description: 
-.. tags: Health
+.. tags: Health,Sleep
 .. date: 2015/04/09 12:00:00
 .. title: خواب خوبی که تکنولوژی از ما گرفته!
 .. slug: sleep-hacks-mobile-gadgets
