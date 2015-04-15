@@ -1,8 +1,8 @@
-.. link: http://loge.github.io/posts/2015/linuxmint-cinnamon-171-official-guide
+.. link: http://loge.github.io/posts/2015/linuxmint-cinnamon-171-official-guide.html
 .. description: 
 .. tags: 2nate,Mint,Linux,Book
 .. date: 2015/04/06 14:00:00
-.. title: ترجمهٔ کتاب «راهنمای لینوکس مینت»
+.. title: ترجمهٔ کتاب «راهنمای لینوکس مینت ۱۷/۱»
 .. slug: linuxmint-cinnamon-171-official-guide
 
 تقریباً یکی دو سالی از ترجمهٔ کتاب `«راهنمای لینوکس مینت دسکتاپ مِیْتْ» <http://www.linuxmint.com/documentation.php>`_ می‌گذره و تصمیم گرفتم که راهنمای مربوط به دسکتاپ سینامون رو نیز اضافه کنم.
