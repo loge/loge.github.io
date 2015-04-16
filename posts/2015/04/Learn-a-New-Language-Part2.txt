@@ -2,10 +2,10 @@
 .. description: 
 .. tags: Learn,Language,Quora
 .. date: 2015/04/14 9:00:00
-.. title: چگونه زبان جدید بیاموزیم؟ (قسمت دوم)
+.. title: چگونه زبان جدید بیاموزیم؟ (بخش دوم)
 .. slug: Learn-a-New-Language-Part2
 
-قسمت اول را می‌توانید از طریق `این پیوند <Learn-a-New-Language-Part1.html>`_ ملاحظه بفرمائید.
+`بخش اول. <Learn-a-New-Language-Part1.html>`_
 
 ۴- آماده‌ی سفر شوید
 ==================================
@@ -37,7 +37,7 @@
 
 منتظر بخش‌های بعدی باشید. این پست در چهار بخش تقدیم حضورتان می‌شود تا طولانی شدنش باعث دلزدگی‌تان نشود.
 
-قسمت سوم را می‌توانید از طریق این `پیوند <Learn-a-New-Language-Part3.html>`_ مطالعه بفرمائید.
+`بخش سوم، <Learn-a-New-Language-Part3.html>`_ `بخش چهارم. <Learn-a-New-Language-Part4.html>`_
 
 منبع کورا
 
