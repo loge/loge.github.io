@@ -32,6 +32,7 @@
 - Mint_ > در خصوص لینوکس‌مینت
 - Linux_ > درباره‌ی توزیع‌های لینوکسی
 - Book_ >  معرفی و یا دانلود کتاب
+- LibreOffice_ >  در خصوص مجموعه اداری لیبرآفیس
 
 در قسمت ABOUT مختصری دربارهٔ این وبلاگ توضیح داده شده و توسط گزینهٔ RSS می‌توانید مشترک فید اینجا شوید.
 
@@ -60,4 +61,5 @@
 .. _Mint: ../categories/mint.html
 .. _Linux: ../categories/linux.html
 .. _Book: ../categories/book.html
+.. _LibreOffice: ../categories/libreoffice.html
 

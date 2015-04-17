@@ -1,7 +1,7 @@
-.. link: http://loge.github.io/posts/2015/OpenRespect.html
+.. link: http://loge.github.io/posts/2015/04/OpenRespect.html
 .. description: 
 .. tags: FSF
-.. date: 2015/04/17 9:00:00
+.. date: 2015/04/17 7:00:00
 .. title: بیایید جامعه آزاد خود را درک کنیم
 .. slug: OpenRespect
 

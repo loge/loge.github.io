@@ -1,4 +1,4 @@
-.. link: http://loge.github.io/posts/2015/Learn-a-New-Language-Part4.html
+.. link: http://loge.github.io/posts/2015/04/Learn-a-New-Language-Part4.html
 .. description: 
 .. tags: Learn,Language,Quora
 .. date: 2015/04/16 9:00:00

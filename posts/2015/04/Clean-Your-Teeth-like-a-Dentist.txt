@@ -1,4 +1,4 @@
-.. link: http://loge.github.io/posts/2015/Clean-Your-Teeth-like-a-Dentist.html
+.. link: http://loge.github.io/posts/2015/04/Clean-Your-Teeth-like-a-Dentist.html
 .. description: 
 .. tags: Health,Teeth
 .. date: 2015/04/07 12:00:00

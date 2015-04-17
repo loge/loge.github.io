@@ -1,4 +1,4 @@
-.. link: http://loge.github.io/posts/2015/how-to-bulk-intro.html
+.. link: http://loge.github.io/posts/2015/04/how-to-bulk-intro.html
 .. description: 
 .. tags: Health,BodyBuilding
 .. date: 2015/04/10 10:00:00

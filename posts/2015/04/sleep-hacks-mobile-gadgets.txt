@@ -1,4 +1,4 @@
-.. link: http://loge.github.io/posts/2015/sleep-hacks-mobile-gadgets.html
+.. link: http://loge.github.io/posts/2015/04/sleep-hacks-mobile-gadgets.html
 .. description: 
 .. tags: Health,Sleep
 .. date: 2015/04/09 12:00:00

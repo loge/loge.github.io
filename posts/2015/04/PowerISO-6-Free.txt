@@ -1,4 +1,4 @@
-.. link: http://loge.github.io/posts/2015/PowerISO-6-Free.html
+.. link: http://loge.github.io/posts/2015/04/PowerISO-6-Free.html
 .. description: 
 .. tags: Deal
 .. date: 2015/04/10 15:00:00

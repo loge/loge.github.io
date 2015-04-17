@@ -1,4 +1,4 @@
-.. link: http://loge.github.io/posts/2015/linuxmint-cinnamon-171-official-guide.html
+.. link: http://loge.github.io/posts/2015/04/linuxmint-cinnamon-171-official-guide.html
 .. description: 
 .. tags: 2nate,Mint,Linux,Book
 .. date: 2015/04/06 14:00:00
