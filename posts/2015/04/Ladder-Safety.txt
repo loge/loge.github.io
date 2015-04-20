@@ -1,7 +1,7 @@
 .. link: http://loge.github.io/posts/2015/04/Ladder-Safety.html
 .. description: 
 .. tags: Life
-.. date: 2015/04/20 9:00:00
+.. date: 2015/04/20 8:00:00
 .. title: امنیت بر روی نردبان
 .. slug: Ladder-Safety
 

@@ -6,12 +6,12 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://loge.github.io/</loc>
-  <lastmod>2015-04-16</lastmod>
+  <lastmod>2015-04-20</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://loge.github.io/2013/</loc>
-  <lastmod>2015-04-16</lastmod>
+  <lastmod>2015-04-20</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -21,7 +21,7 @@
  </url>
  <url>
   <loc>http://loge.github.io/2015/</loc>
-  <lastmod>2015-04-16</lastmod>
+  <lastmod>2015-04-20</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -36,7 +36,7 @@
  </url>
  <url>
   <loc>http://loge.github.io/blog/</loc>
-  <lastmod>2015-04-19</lastmod>
+  <lastmod>2015-04-20</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -66,7 +66,7 @@
  </url>
  <url>
   <loc>http://loge.github.io/categories/</loc>
-  <lastmod>2015-04-19</lastmod>
+  <lastmod>2015-04-20</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -186,12 +186,12 @@
  </url>
  <url>
   <loc>http://loge.github.io/galleries/</loc>
-  <lastmod>2015-04-16</lastmod>
+  <lastmod>2015-04-20</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://loge.github.io/galleries/demo/</loc>
-  <lastmod>2015-04-16</lastmod>
+  <lastmod>2015-04-20</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -206,7 +206,7 @@
  </url>
  <url>
   <loc>http://loge.github.io/go/</loc>
-  <lastmod>2015-04-16</lastmod>
+  <lastmod>2015-04-20</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -216,12 +216,12 @@
  </url>
  <url>
   <loc>http://loge.github.io/index.html</loc>
-  <lastmod>2015-04-09</lastmod>
+  <lastmod>2015-04-20</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://loge.github.io/listings/</loc>
-  <lastmod>2015-04-16</lastmod>
+  <lastmod>2015-04-20</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -305,6 +305,11 @@
   <priority>0.5000</priority>
  </url>
  <url>
+  <loc>http://loge.github.io/posts/2015/04/Ladder-Safety.html</loc>
+  <lastmod>2015-04-20</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
   <loc>http://loge.github.io/posts/2015/04/Learn-a-New-Language-Part1.html</loc>
   <lastmod>2015-04-20</lastmod>
   <priority>0.5000</priority>
@@ -340,6 +345,11 @@
   <priority>0.5000</priority>
  </url>
  <url>
+  <loc>http://loge.github.io/posts/2015/04/The-Dangers-of-Lying-to-Children-About-Money.html</loc>
+  <lastmod>2015-04-20</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
   <loc>http://loge.github.io/posts/2015/04/The-Question-Is-Translate-it-To-The-First-Language-or-Not.html</loc>
   <lastmod>2015-04-20</lastmod>
   <priority>0.5000</priority>
@@ -367,31 +377,6 @@
  <url>
   <loc>http://loge.github.io/posts/2015/04/sleep-hacks-mobile-gadgets.html</loc>
   <lastmod>2015-04-20</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://loge.github.io/posts/2015/Learn-a-New-Language-Part1.html</loc>
-  <lastmod>2015-04-16</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://loge.github.io/posts/2015/Learn-a-New-Language-Part2.html</loc>
-  <lastmod>2015-04-16</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://loge.github.io/posts/2015/Learn-a-New-Language-Part3.html</loc>
-  <lastmod>2015-04-16</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://loge.github.io/posts/2015/Learn-a-New-Language-Part4.html</loc>
-  <lastmod>2015-04-16</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://loge.github.io/posts/2015/linuxmint-cinnamon-171-official-guide.html</loc>
-  <lastmod>2015-04-17</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
