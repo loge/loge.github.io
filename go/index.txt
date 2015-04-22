@@ -33,6 +33,7 @@
 - Linux_ > درباره‌ی توزیع‌های لینوکسی
 - Book_ >  معرفی و یا دانلود کتاب
 - LibreOffice_ >  در خصوص مجموعه اداری لیبرآفیس
+- Life_ >  دانستی‌هایی که در زندگی به کارتان می‌آید
 
 در قسمت ABOUT مختصری دربارهٔ این وبلاگ توضیح داده شده و توسط گزینهٔ RSS می‌توانید مشترک فید اینجا شوید.
 
@@ -62,4 +63,5 @@
 .. _Linux: ../categories/linux.html
 .. _Book: ../categories/book.html
 .. _LibreOffice: ../categories/libreoffice.html
+.. _Life: ../categories/life.html
 
