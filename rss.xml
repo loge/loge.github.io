@@ -1,5 +1,186 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>LoGe</title><link>http://loge.github.io/</link><description>pacman -S freedom</description><atom:link href="http://loge.github.io/rss.xml" type="application/rss+xml" rel="self"></atom:link><lastBuildDate>Thu, 23 Apr 2015 17:05:16 GMT</lastBuildDate><generator>nikola</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>اوبونتو ۱۵.۰۴ را دانلود کنید</title><link>http://loge.github.io//posts/2015/04/Download-Ubuntu-15-04-Vivid-Vervet.html</link><description>&lt;p&gt;در حالی که کونونیکال در حال آماده کردن خبر رسمی انتشار اوبونتو ۱۵.۰۴ برای امروز است، ایمیج‌های این سیستم‌عامل برای دانلود بر روی میرورها قرار گرفته است.&lt;/p&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>LoGe</title><link>http://loge.github.io/</link><description>pacman -S freedom</description><atom:link href="http://loge.github.io/rss.xml" type="application/rss+xml" rel="self"></atom:link><lastBuildDate>Fri, 24 Apr 2015 03:17:08 GMT</lastBuildDate><generator>nikola</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>کارهایی که بعد از نصب اوبونتو ۱۵.۰۴ باید انجام داد</title><link>http://loge.github.io//posts/2015/04/Things-To-Do-After-Install-of-Ubuntu-15-04-Vivid-Vervet.html</link><description>&lt;p&gt;یک انتشار هیجان‌انگیز دیگر از اوبونتو از راه رسید؛ وروت پُرشور (میمون کوچک شرق و جنوب آفریقا) اسم رمز نسخه ۱۵.۰۴ از سیستم‌عامل محبوب اوبونتو است. چیزهای جدید اضافه شده و در بعضی موارد مثل جایگزینی systemd با upstart تغییراتی را داشته‌ایم. هنوز شاهد یونیتی ۸ نیستیم ولی نسخه‌ی ۷.۳ با سرعت و پاسخ‌دهی بالا حرفی را باقی نگذاشته است. هر بار که نسخه‌ی جدیدی از اوبونتو منتشر می‌شود ما در NoobsLab شیرجه‌ای داخلش می‌زنیم تا ببینیم چه کارهایی می‌تواند تجربه‌ی کاربری را بهبود ببخشد. منظورم کامل نبودن اوبونتو نیست، که البته کامل هست، ولی خب کارهایی هست که بعد از یک نصب تازه می‌تواند قدرت مضاعفی را به سیستم‌عامل ما بدهد. تمام دستکاری‌ها توسط NoobsLab تست شده و شما با هیچ مشکلی مواجه نخواهدی شد. اگر هم مواجه شُدید، ما در خدمتتان هستیم. خب دیگر وقتش رسیده که شروع کنیم…&lt;/p&gt;
+&lt;!-- TEASER_END --&gt;
+&lt;p&gt;برای دانلود اوبونتو به &lt;a class="reference external" href="http://releases.ubuntu.com/15.04"&gt;این صفحه&lt;/a&gt; مراجعه کنید.&lt;/p&gt;
+&lt;div class="section" id="id2"&gt;
+&lt;h2&gt;۱- فعال کردن گزینه‌ی کمینه کردن توسط یک-کلیک&lt;/h2&gt;
+&lt;p&gt;کمینه کردن (مینیمایز) توسط کلیک در اوبونتو ۱۴.۱۰ و ۱۴.۰۴ وجود داشت ولی به صورت پیش‌فرض غیرفعال شده بود و هنوز در اوبونتو ۱۵.۰۴ غیرفعال است ولی شما می‌توانید آن را از طریق مدیر کامپیز فعال کنید.&lt;/p&gt;
+&lt;p&gt;برای نصب CCSM دستور زیر را در ترمینال وارد کنید:&lt;/p&gt;
+&lt;pre class="code shell literal-block"&gt;
+sudo apt-get install compizconfig-settings-manager
+&lt;/pre&gt;
+&lt;img alt="https://www.mediafire.com/convkey/70b0/je7kokxlmxqo8uy6g.jpg" src="https://www.mediafire.com/convkey/70b0/je7kokxlmxqo8uy6g.jpg"&gt;
+&lt;p&gt;Dash را با کلیک بر روی آیکن اوبونتو در نوار کناری باز کنید و عبارت CCSM را جستجو کنید. سپس به  Unity plugin بروید و تیک Minimize Single Window Applications را بزنید.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="dash"&gt;
+&lt;h2&gt;۲-غیرفعال کردن جستجوی آنلاین Dash&lt;/h2&gt;
+&lt;p&gt;اگر شما جستجوی برخط در Unity Dash را نمی‌پسندید، به راحتی می‌توانید آن را غیرفعال کنید. به Settings و سپس Privacy بروید و خاموشش کنید.&lt;/p&gt;
+&lt;img alt="https://www.mediafire.com/convkey/a795/kocdwrccp5la2436g.jpg" src="https://www.mediafire.com/convkey/a795/kocdwrccp5la2436g.jpg"&gt;
+&lt;/div&gt;
+&lt;div class="section" id="additional-drivers"&gt;
+&lt;h2&gt;۳- نصب راه‌اندازها از طریق Additional Drivers&lt;/h2&gt;
+&lt;p&gt;برای تجربه‌ی بهتری کاربری در اوبونتو بهتر است که راه‌اندازهای توصیه شده را نصب کنید. شما می‌توانید بهترین راه‌انداز موجود برای سخت‌افزار خودتان را از طریق Additional Driver انتخاب و نصب یا حذف کنید.&lt;/p&gt;
+&lt;p&gt;Dash را باز کنید و عبارت Software &amp;amp; Updates یا Additional Drivers را جستجو کنید. بعد از باز کردن ابزار مربوطه به سربرگ Additional Drivers رفته و راه‌اندازهای پیشنهادی را نصب نمائید.&lt;/p&gt;
+&lt;img alt="https://www.mediafire.com/convkey/bbc1/ixzghle9qr5nhmv6g.jpg" src="https://www.mediafire.com/convkey/bbc1/ixzghle9qr5nhmv6g.jpg"&gt;
+&lt;/div&gt;
+&lt;div class="section" id="id3"&gt;
+&lt;h2&gt;۴- ابزار دستکاری سیستم&lt;/h2&gt;
+&lt;p&gt;Gnome Tweak Tool ابزار قدرتمند و شناخته‌‌شده‌ای است که توسط آن می‌توانید محیط اوبونتو را مدیریت کنید. مثلاً تم، آیکن‌ها، فونت‌ها، مکان‌نما و… را تغییر دهید.&lt;/p&gt;
+&lt;p&gt;Unity Tweak Tool ابزار پیکربندی برای دسکتاپ یونیتی است که دسترسی به ویژگی‌ها و گزینه‌های پیکربندی را در رابط تر و تمیز و ساده‌ای برای کاربر میسر می‌کند.&lt;/p&gt;
+&lt;img alt="https://www.mediafire.com/convkey/12ca/dha80dcdv111xth6g.jpg" src="https://www.mediafire.com/convkey/12ca/dha80dcdv111xth6g.jpg"&gt;
+&lt;p&gt;برای نصب Tweak Tools دستور زیر را در ترمینال صادر کنید:&lt;/p&gt;
+&lt;pre class="code shell literal-block"&gt;
+sudo apt-get install unity-tweak-tool gnome-tweak-tool
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div class="section" id="id4"&gt;
+&lt;h2&gt;۵- غیرفعال کردن اسکرول‌بار مخفی&lt;/h2&gt;
+&lt;p&gt;حالت اسکرول‌بارها در اوبونتو شاید به دل بعضی‌ها ننشیند.&lt;/p&gt;
+&lt;img alt="https://www.mediafire.com/convkey/44e8/c82jk2mpd58qxa76g.jpg" src="https://www.mediafire.com/convkey/44e8/c82jk2mpd58qxa76g.jpg"&gt;
+&lt;p&gt;اگر شما می‌خواهید که آن را به حالتی که در سمت چپ تصویر زیر مشخص است تبدیل کنید دستور زیر را در ترمینال وارد کنید:&lt;/p&gt;
+&lt;pre class="code shell literal-block"&gt;
+gsettings &lt;span class="nb"&gt;set &lt;/span&gt;com.canonical.desktop.interface scrollbar-mode normal
+&lt;/pre&gt;
+&lt;p&gt;اگر می‌خواهید به حالت قبل بازگردید، این دستور را صادر کنید:&lt;/p&gt;
+&lt;pre class="code shell literal-block"&gt;
+gsettings reset com.canonical.desktop.interface scrollbar-mode overlay-auto
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div class="section" id="id5"&gt;
+&lt;h2&gt;۶- غیرفعال کردن جستجوی بازگشتی در ناتیلوس&lt;/h2&gt;
+&lt;p&gt;جستجوی بازگشتی قابلیتی‌ست که شاید برای همه خوشایند نباشد. فرض کنید شما فایلی را دانلود کرده‌اید که نامش حاوی حروف abc است. در مسیری که فایل را دانلود کرده‌ای انبوهی از فایل‌ها و پوشه‌ها وجود دارد. برای پیدا کردن فایل خود از گزینه‌ی جستجو اقدام می‌کنید و abc را می‌نویسید. اگر در زیرمسیرها (subdirectories) فایل‌ها یا پوشه‌هایی با این ترکیب اسم باشند، در جستجوی شما ظاهر خواهند شد و پیدا کردن فایل مورد نظرتان را دشوار خواهد کرد. از طرفی این قابلیت امکان جستجوی گسترده‌تر در زیرمسیرها را به شما می‌دهد. به هر حال این قابلیت بسته به نظر شما می‌تواند بسیار مفید، و یا شاید آزاردهنده باشد.&lt;/p&gt;
+&lt;p&gt;این قابلیت با دو دستور ساده، فعال و غیرفعال می‌شود.&lt;/p&gt;
+&lt;img alt="https://www.mediafire.com/convkey/14b7/d3dy1b8cz6dua8s6g.jpg" src="https://www.mediafire.com/convkey/14b7/d3dy1b8cz6dua8s6g.jpg"&gt;
+&lt;p&gt;برای فعال کردن جستجوی بازگشتی در ناتیلوس دستور زیر را صادر کنید:&lt;/p&gt;
+&lt;pre class="code shell literal-block"&gt;
+gsettings &lt;span class="nb"&gt;set &lt;/span&gt;org.gnome.nautilus.preferences &lt;span class="nb"&gt;enable&lt;/span&gt;-interactive-search &lt;span class="nb"&gt;false&lt;/span&gt;
+&lt;/pre&gt;
+&lt;img alt="https://www.mediafire.com/convkey/a443/0wj6j5vrayc9sbe6g.jpg" src="https://www.mediafire.com/convkey/a443/0wj6j5vrayc9sbe6g.jpg"&gt;
+&lt;p&gt;برای غیرفعال کردن جستجوی بازگشتی و استفاده از حالت Type-ahead در ناتیلوس (تصویر بالا) دستور زیر را صادر کنید:&lt;/p&gt;
+&lt;pre class="code shell literal-block"&gt;
+gsettings &lt;span class="nb"&gt;set &lt;/span&gt;org.gnome.nautilus.preferences &lt;span class="nb"&gt;enable&lt;/span&gt;-interactive-search &lt;span class="nb"&gt;true&lt;/span&gt;
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div class="section" id="id6"&gt;
+&lt;h2&gt;۷- نشان دادن نام کاربری در پنل&lt;/h2&gt;
+&lt;p&gt;به صورت نام پیش‌فرض کاربر وارد شده به سیستم در پنل نمایش داده نمی‌شود. اما شما می‌توانید به راحتی آن را فعال کنید.&lt;/p&gt;
+&lt;img alt="https://www.mediafire.com/convkey/f7b0/ayl39a39loeec4w6g.jpg" src="https://www.mediafire.com/convkey/f7b0/ayl39a39loeec4w6g.jpg"&gt;
+&lt;p&gt;دستور زیر را صادر کنید:&lt;/p&gt;
+&lt;pre class="code shell literal-block"&gt;
+gsettings &lt;span class="nb"&gt;set &lt;/span&gt;com.canonical.indicator.session show-real-name-on-panel &lt;span class="nb"&gt;true&lt;/span&gt;
+&lt;/pre&gt;
+&lt;p&gt;برای حذف نام کاربر از روی پنل هم می‌توانید از دستور زیر کمک بگیرید:&lt;/p&gt;
+&lt;pre class="code shell literal-block"&gt;
+gsettings &lt;span class="nb"&gt;set &lt;/span&gt;com.canonical.indicator.session show-real-name-on-panel &lt;span class="nb"&gt;false&lt;/span&gt;
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div class="section" id="id7"&gt;
+&lt;h2&gt;۸- فعال کردن منوی ترکیبی محلی و تنظیم نوار عنوان + منوها&lt;/h2&gt;
+&lt;p&gt;LIM یا منوی ترکیبی محلی بر روی نوار عنوان هر پنجره‌ی غیر-بیشینه‌ای ظاهر می‌شود. در حالت پیش‌فرض این قابلیت غیرفعال است ولی شما به راحتی می‌توانید آن را فعال کنید. به System Settings &amp;gt; Appearance &amp;gt; Behavior بروید. در Show the menus for a window گزینه‌ی In the window's title bar را انتخاب کنید.&lt;/p&gt;
+&lt;p&gt;در این حالت منوها به جای نمایش در نوار اصلی، در نوار عنوان خود پنجره ظاهر می‌شوند.&lt;/p&gt;
+&lt;img alt="https://www.mediafire.com/convkey/5b27/t302pxk9cnri6k56g.jpg" src="https://www.mediafire.com/convkey/5b27/t302pxk9cnri6k56g.jpg"&gt;
+&lt;div class="section" id="id8"&gt;
+&lt;h3&gt;تنظیم نوار عنوان و منو&lt;/h3&gt;
+&lt;p&gt;افزایش و یا کاهش اندازه‌ی منو و نوار عنوان ویژگی تازه‌ای‌ست که به یونیتی اضافه شده. به System Settings &amp;gt; Displays بروید و در Scale for menu and title bars بسته به نیازتان تغییرات را اعمال کنید.&lt;/p&gt;
+&lt;img alt="https://www.mediafire.com/convkey/003f/pptg799qvxexrx66g.jpg" src="https://www.mediafire.com/convkey/003f/pptg799qvxexrx66g.jpg"&gt;
+&lt;/div&gt;
+&lt;/div&gt;
+&lt;div class="section" id="id9"&gt;
+&lt;h2&gt;۹- نصب گیمپ، برنامه‌ی کار بر روی تصاویر&lt;/h2&gt;
+&lt;p&gt;گیمپ یک برنامه‌ی آزاد برای ساخت، ویرایش و کار بر روی تصاویر است.&lt;/p&gt;
+&lt;img alt="https://www.mediafire.com/convkey/fe74/fa725on0knon6bi6g.jpg" src="https://www.mediafire.com/convkey/fe74/fa725on0knon6bi6g.jpg"&gt;
+&lt;p&gt;برای نصب آن دستور زیر را در ترمینال وارد کنید:&lt;/p&gt;
+&lt;pre class="code shell literal-block"&gt;
+sudo apt-get install gimp gimp-data gimp-plugin-registry gimp-data-extras
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div class="section" id="id10"&gt;
+&lt;h2&gt;۱۰- دیوار آتش برای اوبونتو&lt;/h2&gt;
+&lt;p&gt;لینوکس نیازی به آنتی‌ویروس ندارد ولی دیوار آتش برای هر سیستم‌عاملی مهم است. UFW به صورت پیش‌فرض نصب شده است ولی این ابزار تحت خط فرمان به صورت غیرفعال است. برای استفاده از رابط گرافیکی می‌توانید GUFW را نصب و از طریق آن با UFW ارتباط برقرار کرده و فعال، و مدیریتش کنید.&lt;/p&gt;
+&lt;img alt="https://www.mediafire.com/convkey/277a/k8j308si1j7rko06g.jpg" src="https://www.mediafire.com/convkey/277a/k8j308si1j7rko06g.jpg"&gt;
+&lt;p&gt;برای نصب آن دستور زیر را در ترمینال وارد کنید:&lt;/p&gt;
+&lt;pre class="code shell literal-block"&gt;
+sudo apt-get install gufw
+&lt;/pre&gt;
+&lt;p&gt;بعد از نصب Dash را باز کنید و عبارت GUFW را جستجو کنید.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="id11"&gt;
+&lt;h2&gt;۱۱- نصب ادوبی فلش پلاگین&lt;/h2&gt;
+&lt;p&gt;فلش‌پلیر به صورت پیش‌فعال در دسترس نیست ولی شما می‌توانید آن را از طریق مخازن اوبونتو نصب کنید.&lt;/p&gt;
+&lt;img alt="https://www.mediafire.com/convkey/9a05/7phq7qr4ho2da7d6g.jpg" src="https://www.mediafire.com/convkey/9a05/7phq7qr4ho2da7d6g.jpg"&gt;
+&lt;p&gt;تریمنال را باز کنید و دستور زیر را صادر نمائید:&lt;/p&gt;
+&lt;pre class="code shell literal-block"&gt;
+sudo apt-get install flashplugin-installer
+&lt;/pre&gt;
+&lt;p&gt;به عنوان جایگزین می‌توانید ادوبی فلش را از طریق مخازن شریک اوبونتو نصب کنید. Software-Sources را باز کنید و در سربرگ Other Software تیک Canonical Partners را بزنید.&lt;/p&gt;
+&lt;img alt="https://www.mediafire.com/convkey/c3ae/2xvxymu4mj58lp86g.jpg" src="https://www.mediafire.com/convkey/c3ae/2xvxymu4mj58lp86g.jpg"&gt;
+&lt;p&gt;سپس دستورهای زیر را صادر کنید:&lt;/p&gt;
+&lt;pre class="code shell literal-block"&gt;
+sudo apt-get update &lt;span class="o"&gt;&amp;amp;&amp;amp;&lt;/span&gt;   sudo apt-get install adobe-flashplugin
+&lt;/pre&gt;
+&lt;p&gt;همچنین Pipelight (معادل Silverlight) برای مرورگر‌های وب نصب کنید.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div class="section" id="id12"&gt;
+&lt;h2&gt;۱۲- یکپارچه کردن حساب‌های کاربری آنلاین در اوبونتو&lt;/h2&gt;
+&lt;p&gt;اوبونتو قابلیت‌های مختلفی را برای کار با حساب‌های کاربری آنلاین شامل، فیس‌بوک، گوگل، توییتر، یاهو، هات‌میل و… از طریق دسکتاپ اوبونتو فراهم می‌کند. به Settings &amp;gt; Online Accounts رفته و حساب‌های کاربری خود را پیکربندی کنید.&lt;/p&gt;
+&lt;img alt="https://www.mediafire.com/convkey/09b0/a24vdbljjkfryl96g.jpg" src="https://www.mediafire.com/convkey/09b0/a24vdbljjkfryl96g.jpg"&gt;
+&lt;/div&gt;
+&lt;div class="section" id="id13"&gt;
+&lt;h2&gt;۱۳- نصب اضافات&lt;/h2&gt;
+&lt;p&gt;اضافات محدود غیرآزاد (Restricted) در مخازن اوبونتو قرار دارند که در زمان نصب اوبونتو نمی‌توانند نصب شوند ولی شما می‌توانید آن‌ها را نصب نمائید. اضافات محدود شامل قابلیت پخش فایل‌های mp3 و پشتیبانی از فرمت‌های مختلف، فونت‌ها، جاوا، پلاگین فلش، lame و پخش dvd می‌شود. دستور زیر را برای نصب آن صادر کنید:&lt;/p&gt;
+&lt;pre class="code shell literal-block"&gt;
+sudo apt-get install ubuntu-restricted-extras
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div class="section" id="dvd"&gt;
+&lt;h2&gt;۱۴- کدک‌ها و فعال کردن پخش DVD&lt;/h2&gt;
+&lt;p&gt;اگر کاربر فایل‌های چند رسانه‌ای هستید و از اوبونتو بدین منظور استفاده می‌کنید، این کدک‌ها به کارتان خواهد آمد. دستور زیر را صادر و آن‌ها را نصب کنید:&lt;/p&gt;
+&lt;pre class="code shell literal-block"&gt;
+sudo apt-get install ffmpeg gstreamer0.10-plugins-ugly gxine libdvdread4 icedax tagtool easytag id3tool lame libxine2-ffmpeg nautilus-script-audio-convert libmad0 mpg321 libavcodec-extra gstreamer1.0-libav
+&lt;/pre&gt;
+&lt;p&gt;دستور زیر پخش DVD را فعال می‌کند:&lt;/p&gt;
+&lt;pre class="code shell literal-block"&gt;
+sudo /usr/share/doc/libdvdread4/install-css.sh
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div class="section" id="id14"&gt;
+&lt;h2&gt;۱۵- ابزار فشرده‌سازی و باز کردن فایل‌های فشرده&lt;/h2&gt;
+&lt;p&gt;شما می‌توانید فایل‌های 7z, zip, gzip, rar, xz, tar, bz2, xar, tar.gz, tar.bz و… را فشرده و یا باز کنید. برای این کار لازم است که بسته‌های مربوط به آن‌ها را نصب نمائید:&lt;/p&gt;
+&lt;pre class="code shell literal-block"&gt;
+sudo apt-get install p7zip-rar p7zip-full unace unrar zip unzip sharutils rar uudeview mpack arj cabextract file-roller
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div class="section" id="power"&gt;
+&lt;h2&gt;۱۶- ابزار مدیریت قدرت (Power) لپ‌تاپ‌ها&lt;/h2&gt;
+&lt;p&gt;اگر از لپ‌تاپ استفاده می‌کنید، TLP وlaptop mode tools می‌تواند برای شما بسیار مهم باشد. این ابزارها برای شما امکان ذخیره عمر باتری و یک سری دیگر از ویژگی‌ها را فراهم می‌کند.&lt;/p&gt;
+&lt;p&gt;laptop mode tools را توسط این دستور نصب نمائید:&lt;/p&gt;
+&lt;pre class="code shell literal-block"&gt;
+sudo apt-get install laptop-mode-tools
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div class="section" id="id15"&gt;
+&lt;h2&gt;۱۷- غیرفعال کردن سیستم گزارش خطا&lt;/h2&gt;
+&lt;p&gt;اگر چیزی کرش کند و با خطا مواجه شود پنجره‌ای باز و اطلاعات مربوط به آن را نمایش می‌دهد. چنانچه شما نمی‌خواهید که برای گزارش آن، اعلان دریافت کنید، به راحتی می‌توانید این اعلان‌ها را خاموش نمائید.&lt;/p&gt;
+&lt;p&gt;دستور زیر را صادر کنید:&lt;/p&gt;
+&lt;pre class="code shell literal-block"&gt;
+sudo gedit /etc/default/apport
+&lt;/pre&gt;
+&lt;p&gt;حالا در فایل متنی باز شده عبارت «enabled=1» را در انتها مشاهده خواهید کرد. آن را به «enabled=0» تغییر دهید. سپس تغییرات را ذخیره و خارج شوید. اکنون دستور زیر را صادر کنید:&lt;/p&gt;
+&lt;pre class="code shell literal-block"&gt;
+sudo service apport stop
+&lt;/pre&gt;
+&lt;/div&gt;
+&lt;div class="section" id="id16"&gt;
+&lt;h2&gt;۱۸- از نو آراستن یونیتی&lt;/h2&gt;
+&lt;p&gt;اگر مشکلی پیش آمد می‌توانید دسکتاپ یونیتی را ریست کنید. کافی‌ست که دستور زیر را صادر نمائید:&lt;/p&gt;
+&lt;pre class="code shell literal-block"&gt;
+sudo apt-get install dconf-tools
+dconf reset -f /org/compiz/
+setsid unity
+unity --reset-icons
+&lt;/pre&gt;
+&lt;p&gt;منبع &lt;a class="reference external" href="http://www.noobslab.com/"&gt;NoobsLab&lt;/a&gt;&lt;/p&gt;
+&lt;/div&gt;</description><category>Linux</category><guid>http://loge.github.io//posts/2015/04/Things-To-Do-After-Install-of-Ubuntu-15-04-Vivid-Vervet.html</guid><pubDate>Fri, 24 Apr 2015 03:10:00 GMT</pubDate></item><item><title>اوبونتو ۱۵.۰۴ را دانلود کنید</title><link>http://loge.github.io//posts/2015/04/Download-Ubuntu-15-04-Vivid-Vervet.html</link><description>&lt;p&gt;در حالی که کونونیکال در حال آماده کردن خبر رسمی انتشار اوبونتو ۱۵.۰۴ برای امروز است، ایمیج‌های این سیستم‌عامل برای دانلود بر روی میرورها قرار گرفته است.&lt;/p&gt;
 &lt;img alt="https://www.mediafire.com/convkey/437e/srfp9j6gklgnvgk6g.jpg" src="https://www.mediafire.com/convkey/437e/srfp9j6gklgnvgk6g.jpg"&gt;
 &lt;p&gt;به عبارت دیگر، شما نسخه‌ی نهایی اوبونتو ۱۵.۰۴ را می‌توانید همین الان دریافت و این توزیع را بر روی سیستم خود نصب کنید. وروتِ پورشور (اسم رمز اوبونتو ۱۵.۰۴) با ویژگی‌های جدید، برنامه‌های به روز شده، هسته‌ی جدید لینوکس، پشتیبانی از سخت‌افزارهای تازه و بهبودهای بسیار زیاد دیگر منتشر شده است.&lt;/p&gt;
 &lt;p&gt;&lt;a class="reference external" href="http://linux.softpedia.com/get/Linux-Distributions/Ubuntu-Vivid-Vervet-103651.shtml"&gt;لینک دانلود&lt;/a&gt;&lt;/p&gt;</description><category>Linux</category><guid>http://loge.github.io//posts/2015/04/Download-Ubuntu-15-04-Vivid-Vervet.html</guid><pubDate>Thu, 23 Apr 2015 16:30:00 GMT</pubDate></item><item><title>آیا شما یک مردم‌دوست هستید؟</title><link>http://loge.github.io//posts/2015/04/Are-You-a-People-Pleaser.html</link><description>&lt;p&gt;&lt;strong&gt;چگونه ناتوانی در نه گفتن می‌تواند شما را به نتایج بد در خصوص سلامت رهنمون کند!&lt;/strong&gt;&lt;/p&gt;
@@ -186,42 +367,4 @@
 &lt;p&gt;&lt;a class="reference external" href="http://www.eslpod.com/"&gt;تمام کارهای دکتر مک‌کوئیلن را در وب سایتش «ESL Podcast» می‌توانید دانلود کنید.&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;ممکن است در آینده این پست توسط منابع دیگری نیز به‌روز شود. برای دریافت به‌روزرسانی‌ها، زیرِ باکس کامنت روی «اشتراک» کلیک کنید و ایمیل خود را وارد کنید. البته می‌توانید در Disqus هم ثبت‌نام کنید و از آن طریق مشترک این پست شوید.&lt;/p&gt;
 &lt;p&gt;چنانچه با دریافت هرکدام از موارد فوق مشکلی دارید از طریق نظرات با من در میان بگذارید.&lt;/p&gt;
-&lt;p&gt;اجتماعی باشید و به اشتراک بگذارید…&lt;/p&gt;</description><category>Learn</category><category>Language</category><category>Quora</category><guid>http://loge.github.io//posts/2015/04/Learn-a-New-Language-Part4.html</guid><pubDate>Thu, 16 Apr 2015 09:00:00 GMT</pubDate></item><item><title>چگونه زبان جدید بیاموزیم؟ (بخش سوم)</title><link>http://loge.github.io//posts/2015/04/Learn-a-New-Language-Part3.html</link><description>&lt;p&gt;&lt;a class="reference external" href="http://loge.github.io//posts/2015/04/Learn-a-New-Language-Part1.html"&gt;بخش اول،&lt;/a&gt; &lt;a class="reference external" href="http://loge.github.io//posts/2015/04/Learn-a-New-Language-Part2.html"&gt;بخش دوم.&lt;/a&gt;&lt;/p&gt;
-&lt;div class="section" id="id3"&gt;
-&lt;h2&gt;۸- تکرار، تکرار، و باز هم تکرار&lt;/h2&gt;
-&lt;p&gt;تکرار یکی از ارکان و جزء حیاتی یادگیری هرچیزی هست و اما زمانی‌که بحث یادگیری زبان خارجی می‌شود، دو چندان اهمیت پیدا می‌کند. شاید حوصله‌سربر به نظر بیاید ولی می‌تواند این‌گونه هم نباشد.&lt;/p&gt;
-&lt;!-- TEASER_END --&gt;
-&lt;/div&gt;
-&lt;div class="section" id="id4"&gt;
-&lt;h2&gt;۹- به‌یادآوری بهتر از دوباره‌خوانی‌ست&lt;/h2&gt;
-&lt;p&gt;ثابت شده که سعی در به‌یادآوری &lt;strong&gt;۳ برابر تأثیرگذارتر&lt;/strong&gt; از مرور و دوباره‌خوانی‌ست. به عبارت دیگر  باید سعی کنید که از خودتان انگلیسی در کنید و نه فقط بفهمید. استعاره‌ای که برای حافظه به کار می‌برم یک زمین با علف‌های خیلی بلند است که یک عالمه چیز وسطش انداخته‌اید و برای این که راحت‌تر آن‌ها را پیدا کنید باید تمرین کنید و بارها وجب به وجب این علف‌زار را بگردید تا به حد کافی علف لگدمال کرده باشید. و خب هرچقدر بیشتر علف لگدمال کنید، بار بعد راحت‌تر چیزهای وسط این زمین را پیدا خواهید کرد.&lt;/p&gt;
-&lt;p&gt;هر کاری هم که برای به‌یادآوری زبان انجام دهید، به بهبود آن کمک شایانی کرده‌اید.&lt;/p&gt;
-&lt;p&gt;اگر هم موقعیتش را دارید &lt;strong&gt;بهترین کار صحبت با یک انگلیسی‌زبان واقعی است.&lt;/strong&gt; و خوشبختانه اینترنت این امکان را فراهم کرده. بهتر است یک دوست پا به کار خارجی برای خودتان دست و پا کنید.&lt;/p&gt;
-&lt;p&gt;تمام این مقدمه‌چینی‌ها ختم می‌شه به &lt;strong&gt;مهم‌ترین حقه‌ی یادگیری زبان.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;اگر شما هر ۹ قسمت بالا را با هم ترکیب کنید (به خصوص ۸ و ۹ را) یک نتیجه‌گیری واضح وجود خواهد داشت: &lt;strong&gt;سریع‌ترین راهی که برای یادگیری زبان کشف کرده‌ام عبارت است از:&lt;/strong&gt;&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="id5"&gt;
-&lt;h2&gt;۱۰- با نوشته‌های به زبان انگلیسی مکرراً کار کنید&lt;/h2&gt;
-&lt;p&gt;این گل سر سبد ترفندهای من است و &lt;strong&gt;این حقه، تأثیرگذارترین متد برای یادگیری سریع زبان است.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;یک نوشته‌ای که می‌توانید در طول هفته یاد بگیرید انتخاب کنید &lt;strong&gt;(ضرروی است که شما فایل صوتی نوشته را هم داشته باشید)&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;یک متن با موضوعِ &lt;strong&gt;مورد علاقه‌ی خود و در سطحِ خود انتخاب کنید&lt;/strong&gt; (البته بهتر است که تا حدودی چالش‌برانگیز باشد ولی خب، نه خیلی هم سخت). اگر تازه‌کارید، متن کوتاه انتخاب کنید؛ به عنوان نمونه فقط چند جمله در هر تمرین. کامیک‌های تصویری می‌توانند برای شما بسیار مفید باشند (سری &lt;a class="reference external" href="http://www.peanuts.com/comics"&gt;Peanuts&lt;/a&gt; نمونه‌های خوبی به نظر می‌رسند).&lt;/p&gt;
-&lt;p&gt;هرچقدر پیشرفت می‌کنید باید نوشته‌های بلندتری را انتخاب کنید. چند پاراگراف کوتاه و یا چند دیالوگ برای هر دفعه… نوشته‌های مربوط به فیلم‌ها یا تئاترها و یا کتاب‌هایی که یک بچه می‌پسندد چرا که در کنار سودمند بودنشان، ساده هم هستند.&lt;/p&gt;
-&lt;p&gt;به هر قسمت &lt;strong&gt;حداقل ده مرتبه گوش دهید&lt;/strong&gt; (اصل تکرار). این مرحله‌ی پیش از یادگیری هست. شروع به حفظ کردن و یادآوری متن کنید (اصل به‌یادآوری). اولش &lt;strong&gt;خیلی سخت&lt;/strong&gt; به نظر می‌رسد ولی خودش به شما ثابت می‌کند که چقدر یادآوری‌ها برایتان مهم و ضروری‌ست.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;یک هفته به خودتان زمان بدهید.&lt;/strong&gt; چرا؟ به خاطر &lt;strong&gt;هفت شبی که قرار است بخوابید&lt;/strong&gt; و اتفاقات جادوییِ در حین خواب!&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="id6"&gt;
-&lt;h2&gt;۱۱- خواب&lt;/h2&gt;
-&lt;p&gt;&lt;strong&gt;خواب برای حافظه ضروری‌ست.&lt;/strong&gt; در اصل، تحقیقات نشان داده که بازه زمانی که در روز شما به خواب می‌روید آن‌قدر مهم نیست که خود خواب مهم است. چرت زدن‌های روزانه خیلی مؤثر است. خودتان را از خواب طولانی، بعد از یادگیری یا تمرین &lt;strong&gt;تحت هیچ شرایطی محروم نکنید.&lt;/strong&gt; وقتی می‌خوابید مغز شما شروع به ساخت ساختارهایی برای انتقال اطلاعات از حافظه‌ی کوتاه مدت به حافظه‌ی بلند مدت می‌کند. شاید این موضوع برای شما متفاوت باشد ولی شخصاً بعد از هفت شب خواب (به مقدار لازم) و خب تمرین‌های روزانه، به‌یادآوری نوشته‌ها برایم خیلی بی‌زحمت و دردسر بود.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="id7"&gt;
-&lt;h2&gt;۱۲- تمرین‌های ورزشی&lt;/h2&gt;
-&lt;p&gt;ما معمولاً مغز را جزئی جدا از بدن‌مان می‌دانیم ولی خب بهتر است بدانید که مغز هم جزئی از همین بدن است. اگر شما به بدنتان ورزش دهید، مغز نه‌تنها بی‌نصیب نخواهند ماند که استفاده‌های &lt;strong&gt;خیلی گنده‌ای&lt;/strong&gt; هم خواهد بُرد. شاید عجیب به نظر برسد ولی روی فرم بودن شما به یادیگری زبان جدید کمک می‌کند. حتی می‌توانید در حین تمرین، انگلیسی هم گوش کنید تا با یک تیر، دو نشان زده باشید.&lt;/p&gt;
-&lt;/div&gt;
-&lt;div class="section" id="id8"&gt;
-&lt;h2&gt;۱۳- درباره‌ی یادگیری، یاد بگیرید&lt;/h2&gt;
-&lt;p&gt;من به این نتیجه رسیدم که هر چند ساعتی که مشغول تحقیق در خصوص یادگیری بودم در حقیقت به سرعت بخشیدن یادگیری خودم کمک می‌کردم. چیزهای کلی و همچنین شخصی در خصوص یادگیری وجود دارد که به شما کمک خواهد کرد تا مسیر یادگیری خودتان را بهبود ببخشید و تجهیزات مناسب‌تری را برای سفر به دل موضوع جدید با خودتان به همراه ببرید. فقط باید تحقیق کنید و ببینید که کدام روش به شما بهترین جواب را می‌دهد و چگونه می‌توانید کاری که در حال انجامش هستید را بهینه کنید.&lt;/p&gt;
-&lt;p&gt;منبع کورا&lt;/p&gt;
-&lt;p&gt;در بخش پایانی منابعی برای یادگیری به شما معرفی خواهم کرد.&lt;/p&gt;
-&lt;p&gt;&lt;a class="reference external" href="http://loge.github.io//posts/2015/04/Learn-a-New-Language-Part4.html"&gt;بخش چهارم.&lt;/a&gt;&lt;/p&gt;
-&lt;p&gt;اجتماعی باشید و به اشتراک بگذارید…&lt;/p&gt;
-&lt;/div&gt;</description><category>Learn</category><category>Language</category><category>Quora</category><guid>http://loge.github.io//posts/2015/04/Learn-a-New-Language-Part3.html</guid><pubDate>Wed, 15 Apr 2015 09:00:00 GMT</pubDate></item></channel></rss>
+&lt;p&gt;اجتماعی باشید و به اشتراک بگذارید…&lt;/p&gt;</description><category>Learn</category><category>Language</category><category>Quora</category><guid>http://loge.github.io//posts/2015/04/Learn-a-New-Language-Part4.html</guid><pubDate>Thu, 16 Apr 2015 09:00:00 GMT</pubDate></item></channel></rss>
