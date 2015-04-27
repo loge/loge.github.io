@@ -36,32 +36,37 @@
  </url>
  <url>
   <loc>http://loge.github.io/blog/</loc>
-  <lastmod>2015-04-20</lastmod>
+  <lastmod>2015-04-26</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://loge.github.io/blog/index-1.html</loc>
-  <lastmod>2015-04-26</lastmod>
+  <lastmod>2015-04-27</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://loge.github.io/blog/index-2.html</loc>
-  <lastmod>2015-04-26</lastmod>
+  <lastmod>2015-04-27</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://loge.github.io/blog/index-3.html</loc>
-  <lastmod>2015-04-26</lastmod>
+  <lastmod>2015-04-27</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://loge.github.io/blog/index-4.html</loc>
-  <lastmod>2015-04-26</lastmod>
+  <lastmod>2015-04-27</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://loge.github.io/blog/index-5.html</loc>
+  <lastmod>2015-04-27</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://loge.github.io/blog/index.html</loc>
-  <lastmod>2015-04-26</lastmod>
+  <lastmod>2015-04-27</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -71,7 +76,7 @@
  </url>
  <url>
   <loc>http://loge.github.io/categories/2nate.html</loc>
-  <lastmod>2015-04-26</lastmod>
+  <lastmod>2015-04-27</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -86,17 +91,17 @@
  </url>
  <url>
   <loc>http://loge.github.io/categories/brain.html</loc>
-  <lastmod>2015-04-26</lastmod>
+  <lastmod>2015-04-27</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://loge.github.io/categories/course.html</loc>
-  <lastmod>2015-04-26</lastmod>
+  <lastmod>2015-04-27</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://loge.github.io/categories/deal.html</loc>
-  <lastmod>2015-04-26</lastmod>
+  <lastmod>2015-04-27</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -106,7 +111,7 @@
  </url>
  <url>
   <loc>http://loge.github.io/categories/family.html</loc>
-  <lastmod>2015-04-26</lastmod>
+  <lastmod>2015-04-27</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -121,7 +126,7 @@
  </url>
  <url>
   <loc>http://loge.github.io/categories/happiness.html</loc>
-  <lastmod>2015-04-26</lastmod>
+  <lastmod>2015-04-27</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -131,7 +136,7 @@
  </url>
  <url>
   <loc>http://loge.github.io/categories/html5.html</loc>
-  <lastmod>2015-04-26</lastmod>
+  <lastmod>2015-04-27</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -141,47 +146,47 @@
  </url>
  <url>
   <loc>http://loge.github.io/categories/language.html</loc>
-  <lastmod>2015-04-26</lastmod>
+  <lastmod>2015-04-27</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://loge.github.io/categories/learn.html</loc>
-  <lastmod>2015-04-26</lastmod>
+  <lastmod>2015-04-27</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://loge.github.io/categories/libreoffice.html</loc>
-  <lastmod>2015-04-26</lastmod>
+  <lastmod>2015-04-27</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://loge.github.io/categories/life.html</loc>
-  <lastmod>2015-04-26</lastmod>
+  <lastmod>2015-04-27</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://loge.github.io/categories/linux.html</loc>
-  <lastmod>2015-04-26</lastmod>
+  <lastmod>2015-04-27</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://loge.github.io/categories/me.html</loc>
-  <lastmod>2015-04-26</lastmod>
+  <lastmod>2015-04-27</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://loge.github.io/categories/mint.html</loc>
-  <lastmod>2015-04-26</lastmod>
+  <lastmod>2015-04-27</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://loge.github.io/categories/quora.html</loc>
-  <lastmod>2015-04-26</lastmod>
+  <lastmod>2015-04-27</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://loge.github.io/categories/sleep.html</loc>
-  <lastmod>2015-04-26</lastmod>
+  <lastmod>2015-04-27</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -310,6 +315,11 @@
   <priority>0.5000</priority>
  </url>
  <url>
+  <loc>http://loge.github.io/posts/2015/04/Choosing-to-Be-Happy.html</loc>
+  <lastmod>2015-04-27</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
   <loc>http://loge.github.io/posts/2015/04/Clean-Your-Teeth-like-a-Dentist.html</loc>
   <lastmod>2015-04-26</lastmod>
   <priority>0.5000</priority>
@@ -321,7 +331,7 @@
  </url>
  <url>
   <loc>http://loge.github.io/posts/2015/04/How-Can-I-Be-Happy.html</loc>
-  <lastmod>2015-04-26</lastmod>
+  <lastmod>2015-04-27</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
